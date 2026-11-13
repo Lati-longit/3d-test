@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="refresh" content="0; url=./App/index.html">
+    <title>Redirecting to 3D Model...</title>
+</head>
+<body>
+    <p>正在載入 3D 模型，請稍候...</p>
+</body>
+</html>
